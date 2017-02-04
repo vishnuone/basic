@@ -1,0 +1,24 @@
+{
+  "DB": {
+    "MySQLWriter": {
+      "Host": "127.0.0.1",
+      "Port": "3306",
+      "Username": "root",
+      "Password": "root",
+      "Database": "basic"
+    },
+    "MySQLReader": {
+      "Host": "127.0.0.1",
+      "Port": "3306",
+      "Username": "root",
+      "Password": "root",
+      "Database": "basic"
+    },
+    "RedisWriter": {
+      "Host": "localhost"
+    },
+    "RedisReader": {
+      "Host": "localhost"
+    }
+  }
+}

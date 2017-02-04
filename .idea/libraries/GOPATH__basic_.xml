@@ -1,0 +1,73 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;basic&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$USER_HOME$/devserver/go/src/bitbucket.org" />
+      <root url="file://$PROJECT_DIR$/../../../.DS_Store" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/rebase/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/merge-resolve/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../go-ini/ini/.git" />
+      <root url="file://$PROJECT_DIR$/../clearlog/.git" />
+      <root url="file://$PROJECT_DIR$/../../go-ini/ini/testdata" />
+      <root url="file://$PROJECT_DIR$/../../testing/.idea" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/revert/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../go-sql-driver/mysql/.github" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/status/.gitted" />
+      <root url="file://$USER_HOME$/devserver/go/src/bitbucket.org/litebreeze/apppelsin/consumer/.idea" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/typechanges/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/renames/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../jtolds/gls/.git" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/binaryunicode/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/.git" />
+      <root url="file://$PROJECT_DIR$/../../go-sql-driver/mysql/.git" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/win32-forbidden/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/attr/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/filemodes/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/merge-whitespace/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submod2_target/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/partial-testrepo/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submodule_simple/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/merge-recursive/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/diff_format_email/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/issue_592/.gitted" />
+      <root url="file://$PROJECT_DIR$/../demo/.idea" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submod2/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/testrepo2/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submod2/not/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/crlf/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../smartystreets/goconvey/.git" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/diff/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/attr_index/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submod2/not-submodule/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/empty_standard_repo/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submodule_with_path/.gitted" />
+      <root url="file://$PROJECT_DIR$/../tachyonicsearch/.idea" />
+      <root url="file://$PROJECT_DIR$/../tachyonicsearch/.git" />
+      <root url="file://$PROJECT_DIR$/../goplay/.git" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/cherrypick/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/icase/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/issue_1397/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/issue_592b/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/describe/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/nasty/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/nsecs/.gitted" />
+      <root url="file://$PROJECT_DIR$/.idea" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/push_src/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/mergedrepo/.gitted" />
+      <root url="file://$PROJECT_DIR$/.git" />
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in/libgit2/git2go.v22/.git" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/super/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submodules/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/testrepo/.gitted" />
+      <root url="file://$PROJECT_DIR$/../goplay/.idea" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/userdiff/.gitted" />
+      <root url="file://$PROJECT_DIR$/../../libgit2/git2go/vendor/libgit2/tests/resources/submodules/testrepo/.gitted" />
+    </excluded>
+  </library>
+</component>
